@@ -8,6 +8,7 @@ dataSources:
     source:
       address: "0x99851dfEbc72D1Ff83E3f97d003FCdd8D49EdEF5"
       abi: CRVFunder
+      startBlock: 14377075
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.5
